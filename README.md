@@ -24,7 +24,7 @@
 
 Windows | Debian | Função | Migrado
 ------- | ------ | -------- | --------
-Fusion 360 |  --  | Modelador 3D
+Fusion 360 |  --  | Modelador 3D | 
 Calibre 64bit | -- | Transferir livros digitais para o Kindle 
 COMODO Anti Virus |  --  | Antivirus e Anti Spawer
 Composer PHP | --  | Modulo para Visual Studio
@@ -41,6 +41,43 @@ Google Earth Pro | -- | Mapas via Navegador
 Inkscape 0.92.4 | -- | Editor de Imagens
 Insomnia | -- |
 IRPF 2022 | -- | Imposto de Renda
+Java 8.0.2910.10 | -- | -- |
+Java SE Dev Kit 11.0.12 | -- | -- |
+Lightshot 5.5.0.7 | -- | Printar telas | --
+Microsoft Office Professional 2019 | -- | -- |
+Microsoft Teams | -- | Video chamadas |
+Microsoft Visual Studio Code | -- | IDEA Programação | --
+Mozila Firefox 84.0 | -- | Browse | --
+Mozila Thunderbird 91.8| -- | Gerenciador de email | --
+MySQL Workbench 8.0 CE | -- | Design de Banco de Dados | --
+Node.js 16.14.0 | -- | -- |
+Nvidia 527.38 | -- | -- |
+Nvidia FrameView SDk 1.3.8107 | -- | -- |
+Nvidia GeForce Experience 3.236.0.154 | -- | -- |
+Nvidia PhysX 9.21.0713 | -- | -- |
+OBS Studio | -- | Editor de Video | --
+oCam Versão 520.0 | -- | Gravar video da tela | --
+Opera Browser 93.0.45 | -- | Navegador | --
+Oracle VirtualBox VM | -- | Maquina Virtual | --
+Origin | -- | -- | --
+Postgre SQl 14 | -- | Banco de Dados | --
+Putty 0.73 | -- | Conexão FTP e SSH | --
+Steam 2.10 | -- | Plataforma para Jogos | --
+Spotify | -- | Tocador de musica | --
+TEam Viwer | -- | Acesso Remoto | --
+Transmission 3.00 | -- | Arquivos Torrent | --
+Ultimaker Cutra 4.6 | -- | Fatiador 3D | --
+UltaVNC | -- | Acesso remotor | --
+VLX Media Player | -- | Tocador de arquivos de Video | --
+Whatsapp | -- | -- | --
+Winrar 6.0.1 | -- | Arquivos Compactados | --
+Zoiper | --| -- | --
+
+
+
+
+
+
 
 # Configurando nova maquina Linux ( Debian ) 
 * Notebok Dell Vostro 5490 - Core i5 10210U GEN - 16 GB RAM
