@@ -15,6 +15,10 @@
 
 ![Gravar_2022_12_12_22_38_12_561](https://user-images.githubusercontent.com/12467009/207747582-fd557f82-4eb6-4f84-bc30-e4257f577cd5.gif)
 
+* O Windows não reconhece meu fone de ouvido P2, sempre que eu conecto preciso reiniciar o sistema para reconhecer.
+
+![ppint1](https://user-images.githubusercontent.com/12467009/207997940-50143f55-cf1a-470b-9e45-89151f616091.png)
+
 
 ## Alternativa de Softwares e aplicações para configurar o novo ambiente de trabalho.
 
